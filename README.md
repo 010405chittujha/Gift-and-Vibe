@@ -40,6 +40,7 @@
 ## 📂 Project Structure
 
 The project follows a clean separation of concerns:
+```text
 gifts-and-vibe/
 │
 ├── index.html      # Main HTML structure
